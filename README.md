@@ -11,3 +11,5 @@ Exemplu: n = 3  este prim, dar n = 6 nu este prim
 2. [2.5p] Să se calculeze produsul a n numere naturale
 Exemplu: n = 3 și numerele 3, 4, 5, produsul este 60.
 3. [5p] Să se calculeze CMMDC a 2 numere folosind doi algoritmi distincți.
+
+
